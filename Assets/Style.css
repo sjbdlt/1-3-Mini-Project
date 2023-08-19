@@ -1,0 +1,72 @@
+* {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+width: 100%;
+height: 75px;
+background-color: blue;
+color: white;
+position: sticky;
+}
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: red;
+    color: white;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.section {
+    width: 95%;   
+    padding: 25px;
+    margin:  5px auto;
+    border: 5px solid black;
+}
+
+
+.corp,
+.brnch,
+.ofc 
+ {
+    width: 80%;    
+    display: inline;
+    color: white;
+}
+
+.con
+ {
+    width: 80%;    
+    display: inline;
+    background-color: blue;
+    color: white;
+}
+
+#ename{
+    width: 400px;
+    height: 25px;
+} 
+#ehphone{
+    width: 400px;
+    height: 25px;
+} 
+#ecell{
+    width: 400px;
+    height: 25px;
+} 
+#eemail{
+    width: 400px;
+    height: 25px;
+} 
+img{
+    width: 400px;
+    height: 80%;
+    margin: 25px;
+
+}
